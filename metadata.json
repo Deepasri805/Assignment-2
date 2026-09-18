@@ -1,0 +1,6 @@
+{
+  "name": "Student Profile & Academic Dashboard",
+  "description": "Student profile, 4-semester academic performance, and daily transport sequence dashboard for Deepasri J P at Thiagarajar College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
